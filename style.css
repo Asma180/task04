@@ -1,0 +1,25 @@
+.color{
+    height: 3px;
+    width: 80px;
+    background: linear-gradient(to right, #FFC17F, #222222, #FFC17F);
+    margin-left: 530px;
+    margin-top: 5px;
+}
+.heading-area p{
+    font-size: 15px;
+    color: #707070;
+    margin-top: 10px;
+}
+.details-area{
+    margin-top: 30px;
+}
+.row h3{
+    margin-top: 15px;
+}
+.row p{
+    color: #707070;
+    margin-top: 15px;
+}
+.row{
+    margin-top: 20px;
+}
